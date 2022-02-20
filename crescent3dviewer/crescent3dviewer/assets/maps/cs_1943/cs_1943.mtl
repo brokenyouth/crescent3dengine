@@ -1,0 +1,235 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl Mat_cs_1943__cs_16fighter_texture_0_bmp
+map_Kd cs_16fighter_texture_0.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_001__cs_16fighter_texture_1_bmp
+map_Kd cs_16fighter_texture_1.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_002__cs_16fighter_texture_2_bmp
+map_Kd cs_16fighter_texture_2.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_003__cs_16fighter_texture_3_bmp
+map_Kd cs_16fighter_texture_3.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_004__cs_16fighter_texture_4_bmp
+map_Kd cs_16fighter_texture_4.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_005__cs_16fighter_texture_5_bmp
+map_Kd cs_16fighter_texture_5.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_006__cs_16fighter_texture_6_bmp
+map_Kd cs_16fighter_texture_6.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_007__cs_16fighter_texture_7_bmp
+map_Kd cs_16fighter_texture_7.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_008__cs_16fighter_texture_8_bmp
+map_Kd cs_16fighter_texture_8.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_009__cs_16fighter_texture_9_bmp
+map_Kd cs_16fighter_texture_9.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_010__cs_16fighter_texture_10_bmp
+map_Kd cs_16fighter_texture_10.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_011__cs_16fighter_texture_11_bmp
+map_Kd cs_16fighter_texture_11.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_012__cs_16fighter_texture_12_bmp
+map_Kd cs_16fighter_texture_12.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_013__cs_16fighter_texture_13_bmp
+map_Kd cs_16fighter_texture_13.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_014__cs_16fighter_texture_14_bmp
+map_Kd cs_16fighter_texture_14.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_015__cs_16fighter_texture_15_bmp
+map_Kd cs_16fighter_texture_15.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_016__cs_16fighter_texture_16_bmp
+map_Kd cs_16fighter_texture_16.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_017__cs_16fighter_texture_17_bmp
+map_Kd cs_16fighter_texture_17.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_018__cs_16fighter_texture_18_bmp
+map_Kd cs_16fighter_texture_18.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_019__cs_16fighter_texture_19_bmp
+map_Kd cs_16fighter_texture_19.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_020__cs_16fighter_texture_20_bmp
+map_Kd cs_16fighter_texture_20.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_021__cs_16fighter_texture_21_bmp
+map_Kd cs_16fighter_texture_21.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_022__cs_16fighter_texture_22_bmp
+map_Kd cs_16fighter_texture_22.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_023__cs_16fighter_texture_23_bmp
+map_Kd cs_16fighter_texture_23.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_024__cs_16fighter_texture_24_bmp
+map_Kd cs_16fighter_texture_24.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_025__cs_16fighter_texture_25_bmp
+map_Kd cs_16fighter_texture_25.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_026__cs_16fighter_texture_26_bmp
+map_Kd cs_16fighter_texture_26.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_027__cs_16fighter_texture_27_bmp
+map_Kd cs_16fighter_texture_27.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_028__cs_16fighter_texture_28_bmp
+map_Kd cs_16fighter_texture_28.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 0.000000
+
+newmtl Mat_cs_1943_029__cs_16fighter_texture_29_bmp
+map_Kd cs_16fighter_texture_29.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 0.000000
+
+newmtl Mat_cs_1943_030__cs_16fighter_texture_30_bmp
+map_Kd cs_16fighter_texture_30.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000
+
+newmtl Mat_cs_1943_031__cs_16fighter_texture_31_bmp
+map_Kd cs_16fighter_texture_31.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 0.000000
+
+newmtl Mat_cs_1943_032__cs_16fighter_texture_32_bmp
+map_Kd cs_16fighter_texture_32.bmp
+Ka 0.000000 0.000000 0.000000
+Kd 0.549000 0.549000 0.549000
+illum 1
+Tr 1.000000

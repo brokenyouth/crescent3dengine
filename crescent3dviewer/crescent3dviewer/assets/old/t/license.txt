@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ermita de Sant Roc, Carcaixent, València
+* source:	https://sketchfab.com/3d-models/ermita-de-sant-roc-carcaixent-valencia-4413768a539a406caeb10dd4648dcf21
+* author:	AD&D  4D (https://sketchfab.com/add4d)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ermita de Sant Roc, Carcaixent, València" (https://sketchfab.com/3d-models/ermita-de-sant-roc-carcaixent-valencia-4413768a539a406caeb10dd4648dcf21) by AD&D  4D (https://sketchfab.com/add4d) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
