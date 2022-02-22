@@ -3,7 +3,9 @@
 #include "Window.h"
 #include "Renderer.h"
 #include "ResourceManager.h"
+#include "ShaderManager.h"
 #include "Timer.h"
+#include "Skybox.h"
 #include "Game/Game.h"
 
 #include "Logger.h"
@@ -36,7 +38,7 @@ private:
 	std::unordered_map<std::string, std::shared_ptr<Model>> mModels = {};
 	std::vector<std::future<void>> mFutures = {};
 
-
+	std::shared_ptr<Skybox> mSkybox;
 	Game* mGame = nullptr;
 
 private:

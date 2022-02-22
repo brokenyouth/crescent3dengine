@@ -10,7 +10,7 @@ CameraComponent::CameraComponent(Actor* InOwner, int InUpdateOrder)
 	GRenderer = GEngine->GetRenderer().get();
 	GInput = Input::GetInstance();
 	SetAspectRatio(static_cast<float>(GRenderer->mViewportWidth) / GRenderer->mViewportHeight);
-	SetFieldOfView(90.f);
+	SetFieldOfView(68.f);
 	SetNearClipPlane(0.1f);
 	SetFarClipPlane(9000.f);
 	SetCameraPerspective(true);

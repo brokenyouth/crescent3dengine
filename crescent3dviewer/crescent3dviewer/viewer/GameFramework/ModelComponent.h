@@ -2,6 +2,7 @@
 
 #include "Component.h"
 #include "../Model.h"
+#include "../ShaderManager.h"
 
 class ModelComponent : public Component
 {

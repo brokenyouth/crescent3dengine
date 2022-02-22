@@ -42,7 +42,7 @@ void Game::Initialize()
 {
 	std::vector<std::string> ModelsPath = {};
 	ModelsPath.push_back("./assets/maps/cs_1943/cs_1943.obj");
-	//ModelsPath.push_back("./assets/Sponza/Sponza.gltf");
+	//ModelsPath.push_back("./assets/old/Sponza/Sponza.gltf");
 	//ModelsPath.push_back("./assets/SciFiHelmet/SciFiHelmet.gltf");
 	//ModelsPath.push_back("./assets/t/scene.gltf");
 

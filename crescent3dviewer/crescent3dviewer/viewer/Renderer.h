@@ -34,5 +34,9 @@ public:
 	void Flush();
 	void SetViewport(int X, int Y, int Width, int Height);
 	void SetCamera(CameraComponent* InCamera);
+	inline CameraComponent* GetCamera() const { return Camera; }
+	inline glm::mat4 GetCameraProjectionMatrix() const { return Camera->GetProjectionMatrix(); }
+	inline glm::mat4 GetCameraViewMatrix() const { return Camera->GetViewMatrix(); }
+
 };
 

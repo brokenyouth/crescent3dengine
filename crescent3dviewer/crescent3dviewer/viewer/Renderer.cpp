@@ -68,7 +68,6 @@ void Renderer::Flush()
 
 		if (CurrentModel && CurrentShader)
 		{
-			CRESCENT_CORE_INFO("CurrentModel && CurrentShader");
 			for (auto& Mesh : CurrentModel->GetMeshes())
 			{
 				RenderMesh RM = RenderMesh(CurrentShader, Mesh.get());

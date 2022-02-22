@@ -48,7 +48,10 @@ void Engine::Initialize(int Width, int Height, const std::string& Name)
 	mTimer = std::make_shared<Timer>();
 	ResourceManager::GetInstance();
 	Input::GetInstance();
+	ShaderManager::GetInstance();
 
+	mSkybox = std::make_shared<Skybox>();
+	mSkybox->LoadFromFile("./assets/skybox.cfg");
 	mGame = new Game();
 }
 
@@ -57,6 +60,7 @@ void Engine::Release()
 	delete mGame;
 	mGame = nullptr;
 
+	ShaderManager::GetInstance()->Release();
 	ResourceManager::GetInstance()->Release();
 	Input::GetInstance()->Release();
 
@@ -68,19 +72,8 @@ void Engine::Release()
 }
 
 void Engine::Run()
-
 {
-	ResourceManager::GetInstance()->LoadShader("default", "./shaders/default_vs.glsl", "./shaders/default_fs.glsl");
-	Shader* DefaultShader = ResourceManager::GetInstance()->GetShader("default");
-	DefaultShader->CreateUniform("ProjectionMatrix");
-	DefaultShader->CreateUniform("ViewMatrix");
-	DefaultShader->CreateUniform("ModelMatrix");
-
-	ResourceManager::GetInstance()->LoadShader("skyshader", "./shaders/skybox_vs.glsl", "./shaders/skybox_fs.glsl");
-	Shader* SkyShader = ResourceManager::GetInstance()->GetShader("skyshader");
-	SkyShader->CreateUniform("ProjectionMatrix");
-	SkyShader->CreateUniform("ViewMatrix");
-
+	mSkybox->Prepare();
 	mGame->Initialize();
 
 	while (!mWindow->WindowShouldClose())
@@ -151,4 +144,9 @@ void Engine::Render()
 {
 	mRenderer->Flush();
 	mGame->Render();
+	if (mGame->GetCamera())
+	{
+		//CRESCENT_INFO("mGame->GetCamera()");
+		mSkybox->Draw(mGame->GetCamera()->GetProjectionMatrix(), mGame->GetCamera()->GetViewMatrix());
+	}
 }

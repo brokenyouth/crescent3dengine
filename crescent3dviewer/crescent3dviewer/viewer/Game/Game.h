@@ -24,6 +24,7 @@ public:
 
 public:
 	void SetCamera(CameraComponent* InCamera);
+	inline CameraComponent* GetCamera() const { return Camera; }
 
 	void Initialize();
 	void Input();

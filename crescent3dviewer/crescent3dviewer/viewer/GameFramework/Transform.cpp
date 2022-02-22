@@ -3,7 +3,7 @@
 Transform::Transform()
 {
 	Translation = glm::vec3(0.0f, 0.0f, 0.0f);
-	Rotation = glm::quat(1.0f, 1.0f, 1.0f, 1.0f);
+	Rotation = glm::quat(0.0f, 0.0f, 0.0f, 0.0f);
 	Scale = glm::vec3(1.0f, 1.0f, 1.0f);
 }
 

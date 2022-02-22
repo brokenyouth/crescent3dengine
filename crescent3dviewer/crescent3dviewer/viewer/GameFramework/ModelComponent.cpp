@@ -3,7 +3,8 @@
 ModelComponent::ModelComponent(Actor* InOwner, int InUpdateOrder) 
     : Component(InOwner, InUpdateOrder)
 {
-
+    std::string ShaderName("default");
+    mShader = ShaderManager::Get()->GetShader(ShaderName);
 }
 
 ModelComponent::~ModelComponent()
